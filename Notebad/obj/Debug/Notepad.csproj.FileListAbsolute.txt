@@ -1,0 +1,12 @@
+D:\.Faculdade\Semestre1\Programação Visual\Notepad\Notebad\bin\Debug\Notebad.exe.config
+D:\.Faculdade\Semestre1\Programação Visual\Notepad\Notebad\bin\Debug\Notebad.exe
+D:\.Faculdade\Semestre1\Programação Visual\Notepad\Notebad\bin\Debug\Notebad.pdb
+D:\.Faculdade\Semestre1\Programação Visual\Notepad\Notebad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+D:\.Faculdade\Semestre1\Programação Visual\Notepad\Notebad\obj\Debug\Notepad.csproj.SuggestedBindingRedirects.cache
+D:\.Faculdade\Semestre1\Programação Visual\Notepad\Notebad\obj\Debug\Notebad.FrmPrincipal.resources
+D:\.Faculdade\Semestre1\Programação Visual\Notepad\Notebad\obj\Debug\Notebad.FrmSecondary.resources
+D:\.Faculdade\Semestre1\Programação Visual\Notepad\Notebad\obj\Debug\Notebad.Properties.Resources.resources
+D:\.Faculdade\Semestre1\Programação Visual\Notepad\Notebad\obj\Debug\Notepad.csproj.GenerateResource.cache
+D:\.Faculdade\Semestre1\Programação Visual\Notepad\Notebad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+D:\.Faculdade\Semestre1\Programação Visual\Notepad\Notebad\obj\Debug\Notebad.exe
+D:\.Faculdade\Semestre1\Programação Visual\Notepad\Notebad\obj\Debug\Notebad.pdb
